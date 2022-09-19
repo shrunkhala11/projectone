@@ -97,7 +97,7 @@ a:hover{
 }
 .main{
 	height:1200px;
-	background-image:url('/img/main.jpeg');
+	background-image:url('../img/main.jpeg');
 	
 	grid-area:main;
 }
@@ -247,7 +247,7 @@ a:hover{
 	height:300px;
 	width:350px;
 	margin-left:10px;
-	background-image:url('/img/project_img1.jpg');
+	background-image:url('../img/project_img1.jpg');
  border:1px solid black;	
  position:absolute;
 	top:170px;
